@@ -1,0 +1,7 @@
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\bin\Debug\First_and_a_half.exe.config
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\bin\Debug\First_and_a_half.exe
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\bin\Debug\First_and_a_half.pdb
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\obj\Debug\First_and_a_half.csprojAssemblyReference.cache
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\obj\Debug\First_and_a_half.csproj.CoreCompileInputs.cache
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\obj\Debug\First_and_a_half.exe
+D:\_My_Games\_Neural_network\First_and_a_half\First_and_a_half\obj\Debug\First_and_a_half.pdb
